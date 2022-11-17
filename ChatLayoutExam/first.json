@@ -1,0 +1,4640 @@
+{
+  "lastSeenMsgSentDt" : "2022-11-16T14:25:34.608Z",
+  "lastSeenMsgId" : 3480,
+  "messageList" : [
+    {
+      "id" : 3194,
+      "member" : {
+        "id" : 774,
+        "nickname" : "Sam",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://hub.waiker.ai/profile/ee5583bf-7442-4ac3-b24e-891dcd5635b8.jpg"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 774,
+        "id" : 203,
+        "createdDt" : "2022-11-03T01:30:28.418Z",
+        "owner" : false,
+        "manager" : false,
+        "admin" : false
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "어제 안 팔아서 다행이네요 휴..."
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-10T13:40:37.402Z"
+    },
+    {
+      "id" : 3195,
+      "member" : {
+        "id" : 28,
+        "nickname" : "koreant",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://hub.waiker.ai/profile/451e015f-4acf-41ad-a7cd-46fcc4c26a8a.jpeg"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 28,
+        "id" : 247,
+        "createdDt" : "2022-11-09T13:01:06.135Z",
+        "owner" : false,
+        "manager" : false,
+        "admin" : false
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "부럽네여;;"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-10T13:52:42.513Z"
+    },
+    {
+      "id" : 3196,
+      "member" : {
+        "id" : 18,
+        "nickname" : "테슬라",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://waiker-storage.s3.ap-northeast-2.amazonaws.com/profile/18e252aa-2c61-4c25-b805-ea604f9be1e6.png"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 18,
+        "id" : 159,
+        "createdDt" : "2022-11-02T01:39:12.735Z",
+        "owner" : true,
+        "manager" : false,
+        "admin" : true
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "감사합니다 ㅜㅜsam님"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-10T13:52:46.111Z"
+    },
+    {
+      "id" : 3197,
+      "member" : {
+        "id" : 28,
+        "nickname" : "koreant",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://hub.waiker.ai/profile/451e015f-4acf-41ad-a7cd-46fcc4c26a8a.jpeg"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 28,
+        "id" : 247,
+        "createdDt" : "2022-11-09T13:01:06.135Z",
+        "owner" : false,
+        "manager" : false,
+        "admin" : false
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "SOXS..."
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-10T13:52:52.254Z"
+    },
+    {
+      "id" : 3198,
+      "member" : {
+        "id" : 28,
+        "nickname" : "koreant",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://hub.waiker.ai/profile/451e015f-4acf-41ad-a7cd-46fcc4c26a8a.jpeg"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 28,
+        "id" : 247,
+        "createdDt" : "2022-11-09T13:01:06.135Z",
+        "owner" : false,
+        "manager" : false,
+        "admin" : false
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "망했따;;"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-10T13:52:57.273Z"
+    },
+    {
+      "id" : 3199,
+      "member" : {
+        "id" : 18,
+        "nickname" : "테슬라",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://waiker-storage.s3.ap-northeast-2.amazonaws.com/profile/18e252aa-2c61-4c25-b805-ea604f9be1e6.png"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 18,
+        "id" : 159,
+        "createdDt" : "2022-11-02T01:39:12.735Z",
+        "owner" : true,
+        "manager" : false,
+        "admin" : true
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "SOXS 사신 분 설마 없겠져"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-10T13:55:13.661Z"
+    },
+    {
+      "id" : 3200,
+      "member" : {
+        "id" : 18,
+        "nickname" : "테슬라",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://waiker-storage.s3.ap-northeast-2.amazonaws.com/profile/18e252aa-2c61-4c25-b805-ea604f9be1e6.png"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 18,
+        "id" : 159,
+        "createdDt" : "2022-11-02T01:39:12.735Z",
+        "owner" : true,
+        "manager" : false,
+        "admin" : true
+      },
+      "messageType" : "IMAGE",
+      "linkMessage" : null,
+      "imageMessage" : {
+        "imgWidth" : 400,
+        "imgHeight" : 189,
+        "contents" : "https://hub.waiker.ai/chat-temporal/69980b83-426b-4caa-aef7-0703d56b7908.png"
+      },
+      "deletedByWriter" : false,
+      "textMessage" : null,
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-10T13:55:37.671Z"
+    },
+    {
+      "id" : 3203,
+      "member" : {
+        "id" : 4,
+        "nickname" : "또르",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://hub.waiker.ai/profile/db9626e4-f06b-4138-9ec2-5176dc53b10f.jpg"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 4,
+        "id" : 200,
+        "createdDt" : "2022-11-03T00:20:13.779Z",
+        "owner" : false,
+        "manager" : false,
+        "admin" : false
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "10.11에 다 팔앗는뎅 아쉽네영"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-10T14:20:33.214Z"
+    },
+    {
+      "id" : 3204,
+      "member" : {
+        "id" : 3,
+        "nickname" : "뚜꾸리",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://hub.waiker.ai/profile/5b58b23c-aef0-4a65-ae82-08204c1eebcc.jpg"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 3,
+        "id" : 198,
+        "createdDt" : "2022-11-02T13:42:26.802Z",
+        "owner" : false,
+        "manager" : false,
+        "admin" : false
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "헐 진짜여?"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-10T14:30:36.309Z"
+    },
+    {
+      "id" : 3205,
+      "member" : {
+        "id" : 3,
+        "nickname" : "뚜꾸리",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://hub.waiker.ai/profile/5b58b23c-aef0-4a65-ae82-08204c1eebcc.jpg"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 3,
+        "id" : 198,
+        "createdDt" : "2022-11-02T13:42:26.802Z",
+        "owner" : false,
+        "manager" : false,
+        "admin" : false
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "저는 팔고싶어도 마이너스라 ㅜㅠ"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-10T14:30:57.765Z"
+    },
+    {
+      "id" : 3208,
+      "member" : {
+        "id" : 774,
+        "nickname" : "Sam",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://hub.waiker.ai/profile/ee5583bf-7442-4ac3-b24e-891dcd5635b8.jpg"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 774,
+        "id" : 203,
+        "createdDt" : "2022-11-03T01:30:28.418Z",
+        "owner" : false,
+        "manager" : false,
+        "admin" : false
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "일부 팔지 고민되네영"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-10T14:40:49.813Z"
+    },
+    {
+      "id" : 3232,
+      "member" : {
+        "id" : 28,
+        "nickname" : "koreant",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://hub.waiker.ai/profile/451e015f-4acf-41ad-a7cd-46fcc4c26a8a.jpeg"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 28,
+        "id" : 247,
+        "createdDt" : "2022-11-09T13:01:06.135Z",
+        "owner" : false,
+        "manager" : false,
+        "admin" : false
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "속슬 20퍼"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-10T15:24:22.765Z"
+    },
+    {
+      "id" : 3233,
+      "member" : {
+        "id" : 28,
+        "nickname" : "koreant",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://hub.waiker.ai/profile/451e015f-4acf-41ad-a7cd-46fcc4c26a8a.jpeg"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 28,
+        "id" : 247,
+        "createdDt" : "2022-11-09T13:01:06.135Z",
+        "owner" : false,
+        "manager" : false,
+        "admin" : false
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "속쓰리네여"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-10T15:24:25.921Z"
+    },
+    {
+      "id" : 3234,
+      "member" : {
+        "id" : 4,
+        "nickname" : "또르",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://hub.waiker.ai/profile/db9626e4-f06b-4138-9ec2-5176dc53b10f.jpg"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 4,
+        "id" : 200,
+        "createdDt" : "2022-11-03T00:20:13.779Z",
+        "owner" : false,
+        "manager" : false,
+        "admin" : false
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "와 이거 코인이넹"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-10T15:24:24.232Z"
+    },
+    {
+      "id" : 3235,
+      "member" : {
+        "id" : 28,
+        "nickname" : "koreant",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://hub.waiker.ai/profile/451e015f-4acf-41ad-a7cd-46fcc4c26a8a.jpeg"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 28,
+        "id" : 247,
+        "createdDt" : "2022-11-09T13:01:06.135Z",
+        "owner" : false,
+        "manager" : false,
+        "admin" : false
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "ㅋㅋㅋㅋ"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-10T15:24:31.316Z"
+    },
+    {
+      "id" : 3238,
+      "member" : {
+        "id" : 774,
+        "nickname" : "Sam",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://hub.waiker.ai/profile/ee5583bf-7442-4ac3-b24e-891dcd5635b8.jpg"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 774,
+        "id" : 203,
+        "createdDt" : "2022-11-03T01:30:28.418Z",
+        "owner" : false,
+        "manager" : false,
+        "admin" : false
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "어제 속쓰렸는데, 오늘은 속이 편안하네요 ㅋㅋ"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-10T15:28:57.831Z"
+    },
+    {
+      "id" : 3239,
+      "member" : {
+        "id" : 28,
+        "nickname" : "koreant",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://hub.waiker.ai/profile/451e015f-4acf-41ad-a7cd-46fcc4c26a8a.jpeg"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 28,
+        "id" : 247,
+        "createdDt" : "2022-11-09T13:01:06.135Z",
+        "owner" : false,
+        "manager" : false,
+        "admin" : false
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "ㅋㅋㅋ"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-10T15:32:50.517Z"
+    },
+    {
+      "id" : 3240,
+      "member" : {
+        "id" : 28,
+        "nickname" : "koreant",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://hub.waiker.ai/profile/451e015f-4acf-41ad-a7cd-46fcc4c26a8a.jpeg"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 28,
+        "id" : 247,
+        "createdDt" : "2022-11-09T13:01:06.135Z",
+        "owner" : false,
+        "manager" : false,
+        "admin" : false
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "추카드립니다"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-10T15:32:53.490Z"
+    },
+    {
+      "id" : 3246,
+      "member" : {
+        "id" : 28,
+        "nickname" : "koreant",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://hub.waiker.ai/profile/451e015f-4acf-41ad-a7cd-46fcc4c26a8a.jpeg"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 28,
+        "id" : 247,
+        "createdDt" : "2022-11-09T13:01:06.135Z",
+        "owner" : false,
+        "manager" : false,
+        "admin" : false
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "엥"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-10T22:23:19.387Z"
+    },
+    {
+      "id" : 3247,
+      "member" : {
+        "id" : 28,
+        "nickname" : "koreant",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://hub.waiker.ai/profile/451e015f-4acf-41ad-a7cd-46fcc4c26a8a.jpeg"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 28,
+        "id" : 247,
+        "createdDt" : "2022-11-09T13:01:06.135Z",
+        "owner" : false,
+        "manager" : false,
+        "admin" : false
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "속쓸 30퍼"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-10T22:23:24.552Z"
+    },
+    {
+      "id" : 3248,
+      "member" : {
+        "id" : 28,
+        "nickname" : "koreant",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://hub.waiker.ai/profile/451e015f-4acf-41ad-a7cd-46fcc4c26a8a.jpeg"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 28,
+        "id" : 247,
+        "createdDt" : "2022-11-09T13:01:06.135Z",
+        "owner" : false,
+        "manager" : false,
+        "admin" : false
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "맞..나여"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-10T22:23:30.613Z"
+    },
+    {
+      "id" : 3249,
+      "member" : {
+        "id" : 28,
+        "nickname" : "koreant",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://hub.waiker.ai/profile/451e015f-4acf-41ad-a7cd-46fcc4c26a8a.jpeg"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 28,
+        "id" : 247,
+        "createdDt" : "2022-11-09T13:01:06.135Z",
+        "owner" : false,
+        "manager" : false,
+        "admin" : false
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "ㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷ"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-10T22:23:35.247Z"
+    },
+    {
+      "id" : 3250,
+      "member" : {
+        "id" : 18,
+        "nickname" : "테슬라",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://waiker-storage.s3.ap-northeast-2.amazonaws.com/profile/18e252aa-2c61-4c25-b805-ea604f9be1e6.png"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 18,
+        "id" : 159,
+        "createdDt" : "2022-11-02T01:39:12.735Z",
+        "owner" : true,
+        "manager" : false,
+        "admin" : true
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "맞습니다"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-10T23:26:27.562Z"
+    },
+    {
+      "id" : 3255,
+      "member" : {
+        "id" : 28,
+        "nickname" : "koreant",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://hub.waiker.ai/profile/451e015f-4acf-41ad-a7cd-46fcc4c26a8a.jpeg"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 28,
+        "id" : 247,
+        "createdDt" : "2022-11-09T13:01:06.135Z",
+        "owner" : false,
+        "manager" : false,
+        "admin" : false
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "ㄷ ㄷ ;"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-10T23:32:30.640Z"
+    },
+    {
+      "id" : 3256,
+      "member" : {
+        "id" : 18,
+        "nickname" : "테슬라",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://waiker-storage.s3.ap-northeast-2.amazonaws.com/profile/18e252aa-2c61-4c25-b805-ea604f9be1e6.png"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 18,
+        "id" : 159,
+        "createdDt" : "2022-11-02T01:39:12.735Z",
+        "owner" : true,
+        "manager" : false,
+        "admin" : true
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "오늘 축제입니다"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-10T23:34:23.068Z"
+    },
+    {
+      "id" : 3257,
+      "member" : {
+        "id" : 18,
+        "nickname" : "테슬라",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://waiker-storage.s3.ap-northeast-2.amazonaws.com/profile/18e252aa-2c61-4c25-b805-ea604f9be1e6.png"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 18,
+        "id" : 159,
+        "createdDt" : "2022-11-02T01:39:12.735Z",
+        "owner" : true,
+        "manager" : false,
+        "admin" : true
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "반도체 장기 호황 저낭"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-10T23:34:31.147Z"
+    },
+    {
+      "id" : 3258,
+      "member" : {
+        "id" : 18,
+        "nickname" : "테슬라",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://waiker-storage.s3.ap-northeast-2.amazonaws.com/profile/18e252aa-2c61-4c25-b805-ea604f9be1e6.png"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 18,
+        "id" : 159,
+        "createdDt" : "2022-11-02T01:39:12.735Z",
+        "owner" : true,
+        "manager" : false,
+        "admin" : true
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "존멍"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-10T23:34:32.659Z"
+    },
+    {
+      "id" : 3259,
+      "member" : {
+        "id" : 18,
+        "nickname" : "테슬라",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://waiker-storage.s3.ap-northeast-2.amazonaws.com/profile/18e252aa-2c61-4c25-b805-ea604f9be1e6.png"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 18,
+        "id" : 159,
+        "createdDt" : "2022-11-02T01:39:12.735Z",
+        "owner" : true,
+        "manager" : false,
+        "admin" : true
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "전망"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-10T23:34:34.047Z"
+    },
+    {
+      "id" : 3260,
+      "member" : {
+        "id" : 18,
+        "nickname" : "테슬라",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://waiker-storage.s3.ap-northeast-2.amazonaws.com/profile/18e252aa-2c61-4c25-b805-ea604f9be1e6.png"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 18,
+        "id" : 159,
+        "createdDt" : "2022-11-02T01:39:12.735Z",
+        "owner" : true,
+        "manager" : false,
+        "admin" : true
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "☑️12/6 조지아 결선투표까지 당분간 특별한 증시이벤트가 없어 시장은 오늘 기점으로 산타랠리 기대가능할 것\n\n☑️국내증시도 미국 CPI완화 호재로 긍정적인 방향성이 예상되지만, 금투세 도입이라는 초대형 악재가 있기 때문에 이부분은 염두해둘 필요"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-10T23:35:33.620Z"
+    },
+    {
+      "id" : 3262,
+      "member" : {
+        "id" : 18,
+        "nickname" : "테슬라",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://waiker-storage.s3.ap-northeast-2.amazonaws.com/profile/18e252aa-2c61-4c25-b805-ea604f9be1e6.png"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 18,
+        "id" : 159,
+        "createdDt" : "2022-11-02T01:39:12.735Z",
+        "owner" : true,
+        "manager" : false,
+        "admin" : true
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "12월 6일까지 달립니다"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-10T23:35:47.169Z"
+    },
+    {
+      "id" : 3267,
+      "member" : {
+        "id" : 774,
+        "nickname" : "Sam",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://hub.waiker.ai/profile/ee5583bf-7442-4ac3-b24e-891dcd5635b8.jpg"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 774,
+        "id" : 203,
+        "createdDt" : "2022-11-03T01:30:28.418Z",
+        "owner" : false,
+        "manager" : false,
+        "admin" : false
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "어제 괜히 팔았나 싶네요 ㅠ"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-11T00:05:23.366Z"
+    },
+    {
+      "id" : 3268,
+      "member" : {
+        "id" : 18,
+        "nickname" : "테슬라",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://waiker-storage.s3.ap-northeast-2.amazonaws.com/profile/18e252aa-2c61-4c25-b805-ea604f9be1e6.png"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 18,
+        "id" : 159,
+        "createdDt" : "2022-11-02T01:39:12.735Z",
+        "owner" : true,
+        "manager" : false,
+        "admin" : true
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "어? 다 파셨어요??"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-11T00:09:00.315Z"
+    },
+    {
+      "id" : 3270,
+      "member" : {
+        "id" : 18,
+        "nickname" : "테슬라",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://waiker-storage.s3.ap-northeast-2.amazonaws.com/profile/18e252aa-2c61-4c25-b805-ea604f9be1e6.png"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 18,
+        "id" : 159,
+        "createdDt" : "2022-11-02T01:39:12.735Z",
+        "owner" : true,
+        "manager" : false,
+        "admin" : true
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "오늘 선물 빠지는데 SOXS 어떠신가요"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-11T02:12:04.747Z"
+    },
+    {
+      "id" : 3274,
+      "member" : {
+        "id" : 774,
+        "nickname" : "Sam",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://hub.waiker.ai/profile/ee5583bf-7442-4ac3-b24e-891dcd5635b8.jpg"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : 3268,
+        "member" : {
+          "id" : 18,
+          "nickname" : "테슬라",
+          "memberStatus" : "NORMAL",
+          "profileImage" : "https://waiker-storage.s3.ap-northeast-2.amazonaws.com/profile/18e252aa-2c61-4c25-b805-ea604f9be1e6.png"
+        },
+        "channelId" : 144,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : "TEXT",
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : {
+          "contents" : "어? 다 파셨어요??"
+        },
+        "deletedByAdmin" : false,
+        "sentDt" : "2022-11-11T00:09:00.315Z"
+      },
+      "spaceUser" : {
+        "memberId" : 774,
+        "id" : 203,
+        "createdDt" : "2022-11-03T01:30:28.418Z",
+        "owner" : false,
+        "manager" : false,
+        "admin" : false
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "3분의2 정도 남았습니다 ㅎㅎ"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-11T05:24:48.983Z"
+    },
+    {
+      "id" : 3275,
+      "member" : {
+        "id" : 774,
+        "nickname" : "Sam",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://hub.waiker.ai/profile/ee5583bf-7442-4ac3-b24e-891dcd5635b8.jpg"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 774,
+        "id" : 203,
+        "createdDt" : "2022-11-03T01:30:28.418Z",
+        "owner" : false,
+        "manager" : false,
+        "admin" : false
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "SOXS는 하남자라 못 들어가겠네요 ㄷㄷ"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-11T05:25:01.951Z"
+    },
+    {
+      "id" : 3276,
+      "member" : {
+        "id" : 18,
+        "nickname" : "테슬라",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://waiker-storage.s3.ap-northeast-2.amazonaws.com/profile/18e252aa-2c61-4c25-b805-ea604f9be1e6.png"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 18,
+        "id" : 159,
+        "createdDt" : "2022-11-02T01:39:12.735Z",
+        "owner" : true,
+        "manager" : false,
+        "admin" : true
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "ㅋㅋ;;;; 하남자가 뭔가요 "
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-11T05:52:54.538Z"
+    },
+    {
+      "id" : 3277,
+      "member" : {
+        "id" : 18,
+        "nickname" : "테슬라",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://waiker-storage.s3.ap-northeast-2.amazonaws.com/profile/18e252aa-2c61-4c25-b805-ea604f9be1e6.png"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 18,
+        "id" : 159,
+        "createdDt" : "2022-11-02T01:39:12.735Z",
+        "owner" : true,
+        "manager" : false,
+        "admin" : true
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "상남자의 반대? 쫄보;;?"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-11T05:53:05.168Z"
+    },
+    {
+      "id" : 3280,
+      "member" : {
+        "id" : 7462,
+        "nickname" : "AMITA",
+        "memberStatus" : "NORMAL",
+        "profileImage" : null
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 7462,
+        "id" : 243,
+        "createdDt" : "2022-11-09T06:58:34.322Z",
+        "owner" : false,
+        "manager" : false,
+        "admin" : false
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "ㅎㅇ"
+      },
+
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-11T06:02:13.902Z"
+    },
+    {
+      "id" : 3281,
+      "member" : {
+        "id" : 4,
+        "nickname" : "또르",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://hub.waiker.ai/profile/db9626e4-f06b-4138-9ec2-5176dc53b10f.jpg"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 4,
+        "id" : 200,
+        "createdDt" : "2022-11-03T00:20:13.779Z",
+        "owner" : false,
+        "manager" : false,
+        "admin" : false
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "hi"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-11T06:02:40.230Z"
+    },
+    {
+      "id" : 3282,
+      "member" : {
+        "id" : 28,
+        "nickname" : "koreant",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://hub.waiker.ai/profile/451e015f-4acf-41ad-a7cd-46fcc4c26a8a.jpeg"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : 3280,
+        "member" : {
+          "id" : 7462,
+          "nickname" : "AMITA",
+          "memberStatus" : "NORMAL",
+          "profileImage" : null
+        },
+        "channelId" : 144,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : "TEXT",
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : {
+          "contents" : "ㅎㅇ"
+        },
+        "deletedByAdmin" : false,
+        "sentDt" : "2022-11-11T06:02:13.902Z"
+      },
+      "spaceUser" : {
+        "memberId" : 28,
+        "id" : 247,
+        "createdDt" : "2022-11-09T13:01:06.135Z",
+        "owner" : false,
+        "manager" : false,
+        "admin" : false
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "안녕하세영"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-11T08:24:34.147Z"
+    },
+    {
+      "id" : 3283,
+      "member" : {
+        "id" : 18,
+        "nickname" : "테슬라",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://waiker-storage.s3.ap-northeast-2.amazonaws.com/profile/18e252aa-2c61-4c25-b805-ea604f9be1e6.png"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 18,
+        "id" : 159,
+        "createdDt" : "2022-11-02T01:39:12.735Z",
+        "owner" : true,
+        "manager" : false,
+        "admin" : true
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "안녕하세요 반갑습니다"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-11T08:27:19.087Z"
+    },
+    {
+      "id" : 3288,
+      "member" : {
+        "id" : 18,
+        "nickname" : "테슬라",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://waiker-storage.s3.ap-northeast-2.amazonaws.com/profile/18e252aa-2c61-4c25-b805-ea604f9be1e6.png"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 18,
+        "id" : 159,
+        "createdDt" : "2022-11-02T01:39:12.735Z",
+        "owner" : true,
+        "manager" : false,
+        "admin" : true
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "오늘 차익매물이 좀 나올것 같은데"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-11T08:28:33.705Z"
+    },
+    {
+      "id" : 3289,
+      "member" : {
+        "id" : 18,
+        "nickname" : "테슬라",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://waiker-storage.s3.ap-northeast-2.amazonaws.com/profile/18e252aa-2c61-4c25-b805-ea604f9be1e6.png"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 18,
+        "id" : 159,
+        "createdDt" : "2022-11-02T01:39:12.735Z",
+        "owner" : true,
+        "manager" : false,
+        "admin" : true
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "그래도 버티면 20달러 갈 수 있습니다 속쓸"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-11T08:28:39.500Z"
+    },
+    {
+      "id" : 3290,
+      "member" : {
+        "id" : 28,
+        "nickname" : "koreant",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://hub.waiker.ai/profile/451e015f-4acf-41ad-a7cd-46fcc4c26a8a.jpeg"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 28,
+        "id" : 247,
+        "createdDt" : "2022-11-09T13:01:06.135Z",
+        "owner" : false,
+        "manager" : false,
+        "admin" : false
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "오늘 SOXS삽니다..!"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-11T08:31:00.867Z"
+    },
+    {
+      "id" : 3291,
+      "member" : {
+        "id" : 18,
+        "nickname" : "테슬라",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://waiker-storage.s3.ap-northeast-2.amazonaws.com/profile/18e252aa-2c61-4c25-b805-ea604f9be1e6.png"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 18,
+        "id" : 159,
+        "createdDt" : "2022-11-02T01:39:12.735Z",
+        "owner" : true,
+        "manager" : false,
+        "admin" : true
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "와 오늘도 벌써 5% 급등중!!"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-11T09:06:26.146Z"
+    },
+    {
+      "id" : 3292,
+      "member" : {
+        "id" : 18,
+        "nickname" : "테슬라",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://waiker-storage.s3.ap-northeast-2.amazonaws.com/profile/18e252aa-2c61-4c25-b805-ea604f9be1e6.png"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 18,
+        "id" : 159,
+        "createdDt" : "2022-11-02T01:39:12.735Z",
+        "owner" : true,
+        "manager" : false,
+        "admin" : true
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "수고하세여... SOXS 사신분;;; "
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-11T09:06:48.952Z"
+    },
+    {
+      "id" : 3297,
+      "member" : {
+        "id" : 774,
+        "nickname" : "Sam",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://hub.waiker.ai/profile/ee5583bf-7442-4ac3-b24e-891dcd5635b8.jpg"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 774,
+        "id" : 203,
+        "createdDt" : "2022-11-03T01:30:28.418Z",
+        "owner" : false,
+        "manager" : false,
+        "admin" : false
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "20달러 ㄷㄷ 정말 그러면 좋겠지만, 전 쫄보라 오늘도 팝니다..."
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-11T10:52:22.453Z"
+    },
+    {
+      "id" : 3299,
+      "member" : {
+        "id" : 3,
+        "nickname" : "뚜꾸리",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://hub.waiker.ai/profile/5b58b23c-aef0-4a65-ae82-08204c1eebcc.jpg"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 3,
+        "id" : 198,
+        "createdDt" : "2022-11-02T13:42:26.802Z",
+        "owner" : false,
+        "manager" : false,
+        "admin" : false
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : ".... 같이 버티시죠"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-11T11:14:44.765Z"
+    },
+    {
+      "id" : 3300,
+      "member" : {
+        "id" : 774,
+        "nickname" : "Sam",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://hub.waiker.ai/profile/ee5583bf-7442-4ac3-b24e-891dcd5635b8.jpg"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 774,
+        "id" : 203,
+        "createdDt" : "2022-11-03T01:30:28.418Z",
+        "owner" : false,
+        "manager" : false,
+        "admin" : false
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "제가 팔면 오를 테니, 버스 태워 드릴게요 ㅋㅋ"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-11T11:23:59.589Z"
+    },
+    {
+      "id" : 3302,
+      "member" : {
+        "id" : 3,
+        "nickname" : "뚜꾸리",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://hub.waiker.ai/profile/5b58b23c-aef0-4a65-ae82-08204c1eebcc.jpg"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 3,
+        "id" : 198,
+        "createdDt" : "2022-11-02T13:42:26.802Z",
+        "owner" : false,
+        "manager" : false,
+        "admin" : false
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "와 내리는데요...."
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-11T14:26:35.492Z"
+    },
+    {
+      "id" : 3307,
+      "member" : {
+        "id" : 18,
+        "nickname" : "테슬라",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://waiker-storage.s3.ap-northeast-2.amazonaws.com/profile/18e252aa-2c61-4c25-b805-ea604f9be1e6.png"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 18,
+        "id" : 159,
+        "createdDt" : "2022-11-02T01:39:12.735Z",
+        "owner" : true,
+        "manager" : false,
+        "admin" : true
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "또 오르네요 12.62"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-11T15:13:41.225Z"
+    },
+    {
+      "id" : 3308,
+      "member" : {
+        "id" : 774,
+        "nickname" : "Sam",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://hub.waiker.ai/profile/ee5583bf-7442-4ac3-b24e-891dcd5635b8.jpg"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 774,
+        "id" : 203,
+        "createdDt" : "2022-11-03T01:30:28.418Z",
+        "owner" : false,
+        "manager" : false,
+        "admin" : false
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "일부 팔았더니 더 오르네요 ㄷㄷ"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-11T15:14:46.743Z"
+    },
+    {
+      "id" : 3309,
+      "member" : {
+        "id" : 18,
+        "nickname" : "테슬라",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://waiker-storage.s3.ap-northeast-2.amazonaws.com/profile/18e252aa-2c61-4c25-b805-ea604f9be1e6.png"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 18,
+        "id" : 159,
+        "createdDt" : "2022-11-02T01:39:12.735Z",
+        "owner" : true,
+        "manager" : false,
+        "admin" : true
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "저도 팔았습니다 "
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-11T15:52:23.346Z"
+    },
+    {
+      "id" : 3310,
+      "member" : {
+        "id" : 18,
+        "nickname" : "테슬라",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://waiker-storage.s3.ap-northeast-2.amazonaws.com/profile/18e252aa-2c61-4c25-b805-ea604f9be1e6.png"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 18,
+        "id" : 159,
+        "createdDt" : "2022-11-02T01:39:12.735Z",
+        "owner" : true,
+        "manager" : false,
+        "admin" : true
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "다시 매수 기회찾아야겠어요"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-11T15:52:27.375Z"
+    },
+    {
+      "id" : 3311,
+      "member" : {
+        "id" : 774,
+        "nickname" : "Sam",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://hub.waiker.ai/profile/ee5583bf-7442-4ac3-b24e-891dcd5635b8.jpg"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 774,
+        "id" : 203,
+        "createdDt" : "2022-11-03T01:30:28.418Z",
+        "owner" : false,
+        "manager" : false,
+        "admin" : false
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "오늘 그만 팔아야되나 고민되네요..."
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-11T16:05:57.742Z"
+    },
+    {
+      "id" : 3312,
+      "member" : {
+        "id" : 18,
+        "nickname" : "테슬라",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://waiker-storage.s3.ap-northeast-2.amazonaws.com/profile/18e252aa-2c61-4c25-b805-ea604f9be1e6.png"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 18,
+        "id" : 159,
+        "createdDt" : "2022-11-02T01:39:12.735Z",
+        "owner" : true,
+        "manager" : false,
+        "admin" : true
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "오늘 다 팔고"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-11T17:48:54.839Z"
+    },
+    {
+      "id" : 3313,
+      "member" : {
+        "id" : 18,
+        "nickname" : "테슬라",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://waiker-storage.s3.ap-northeast-2.amazonaws.com/profile/18e252aa-2c61-4c25-b805-ea604f9be1e6.png"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 18,
+        "id" : 159,
+        "createdDt" : "2022-11-02T01:39:12.735Z",
+        "owner" : true,
+        "manager" : false,
+        "admin" : true
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "테슬라나 애플 가시죠!"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-11T17:48:59.638Z"
+    },
+    {
+      "id" : 3316,
+      "member" : {
+        "id" : 774,
+        "nickname" : "Sam",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://hub.waiker.ai/profile/ee5583bf-7442-4ac3-b24e-891dcd5635b8.jpg"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 774,
+        "id" : 203,
+        "createdDt" : "2022-11-03T01:30:28.418Z",
+        "owner" : false,
+        "manager" : false,
+        "admin" : false
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "다 팔면 후회할 것 같아서 남겨놨습니다 ㅎㅎ"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-12T03:52:55.341Z"
+    },
+    {
+      "id" : 3333,
+      "member" : {
+        "id" : 28,
+        "nickname" : "koreant",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://hub.waiker.ai/profile/451e015f-4acf-41ad-a7cd-46fcc4c26a8a.jpeg"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 28,
+        "id" : 247,
+        "createdDt" : "2022-11-09T13:01:06.135Z",
+        "owner" : false,
+        "manager" : false,
+        "admin" : false
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "다파세여 ㄷㄷ"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-13T06:23:44.640Z"
+    },
+    {
+      "id" : 3334,
+      "member" : {
+        "id" : 28,
+        "nickname" : "koreant",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://hub.waiker.ai/profile/451e015f-4acf-41ad-a7cd-46fcc4c26a8a.jpeg"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 28,
+        "id" : 247,
+        "createdDt" : "2022-11-09T13:01:06.135Z",
+        "owner" : false,
+        "manager" : false,
+        "admin" : false
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "soxs의 시대가왓습니다"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-13T06:23:50.401Z"
+    },
+    {
+      "id" : 3335,
+      "member" : {
+        "id" : 28,
+        "nickname" : "koreant",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://hub.waiker.ai/profile/451e015f-4acf-41ad-a7cd-46fcc4c26a8a.jpeg"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 28,
+        "id" : 247,
+        "createdDt" : "2022-11-09T13:01:06.135Z",
+        "owner" : false,
+        "manager" : false,
+        "admin" : false
+      },
+      "messageType" : "IMAGE",
+      "linkMessage" : null,
+      "imageMessage" : {
+        "imgWidth" : 973,
+        "imgHeight" : 2000,
+        "contents" : "https://hub.waiker.ai/chat-temporal/e6f4af96-6c84-4e2d-99da-f1814fe7ba87.jpg"
+      },
+      "deletedByWriter" : false,
+      "textMessage" : null,
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-13T06:24:08.194Z"
+    },
+    {
+      "id" : 3336,
+      "member" : {
+        "id" : 774,
+        "nickname" : "Sam",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://hub.waiker.ai/profile/ee5583bf-7442-4ac3-b24e-891dcd5635b8.jpg"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 774,
+        "id" : 203,
+        "createdDt" : "2022-11-03T01:30:28.418Z",
+        "owner" : false,
+        "manager" : false,
+        "admin" : false
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "다음주에 다 팔려고요 ㅎㅎ"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-13T06:43:40.113Z"
+    },
+    {
+      "id" : 3345,
+      "member" : {
+        "id" : 3,
+        "nickname" : "뚜꾸리",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://hub.waiker.ai/profile/5b58b23c-aef0-4a65-ae82-08204c1eebcc.jpg"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 3,
+        "id" : 198,
+        "createdDt" : "2022-11-02T13:42:26.802Z",
+        "owner" : false,
+        "manager" : false,
+        "admin" : false
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "아직 저점이에요 20달러갑니다.."
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-13T11:45:30.181Z"
+    },
+    {
+      "id" : 3350,
+      "member" : {
+        "id" : 28,
+        "nickname" : "koreant",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://hub.waiker.ai/profile/451e015f-4acf-41ad-a7cd-46fcc4c26a8a.jpeg"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 28,
+        "id" : 247,
+        "createdDt" : "2022-11-09T13:01:06.135Z",
+        "owner" : false,
+        "manager" : false,
+        "admin" : false
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "오"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-13T15:55:02.484Z"
+    },
+    {
+      "id" : 3370,
+      "member" : {
+        "id" : 18,
+        "nickname" : "테슬라",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://waiker-storage.s3.ap-northeast-2.amazonaws.com/profile/18e252aa-2c61-4c25-b805-ea604f9be1e6.png"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 18,
+        "id" : 159,
+        "createdDt" : "2022-11-02T01:39:12.735Z",
+        "owner" : true,
+        "manager" : false,
+        "admin" : true
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "나락가네 ㅜㅜ"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-14T14:39:33.294Z"
+    },
+    {
+      "id" : 3373,
+      "member" : {
+        "id" : 78,
+        "nickname" : "사나이클럽운영자",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://hub.waiker.ai/profile/e1fbf666-670f-42d7-b6de-65a482d67547.jpg"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 78,
+        "id" : 226,
+        "createdDt" : "2022-11-03T23:13:51.555Z",
+        "owner" : false,
+        "manager" : false,
+        "admin" : false
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "19달러 올수 있을까요..?"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-14T14:40:51.336Z"
+    },
+    {
+      "id" : 3374,
+      "member" : {
+        "id" : 774,
+        "nickname" : "Sam",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://hub.waiker.ai/profile/ee5583bf-7442-4ac3-b24e-891dcd5635b8.jpg"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 774,
+        "id" : 203,
+        "createdDt" : "2022-11-03T01:30:28.418Z",
+        "owner" : false,
+        "manager" : false,
+        "admin" : false
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "나락이라기엔 아직 마이너스 1프로 정도입니다."
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-14T14:41:04.059Z"
+    },
+    {
+      "id" : 3375,
+      "member" : {
+        "id" : 78,
+        "nickname" : "사나이클럽운영자",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://hub.waiker.ai/profile/e1fbf666-670f-42d7-b6de-65a482d67547.jpg"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 78,
+        "id" : 226,
+        "createdDt" : "2022-11-03T23:13:51.555Z",
+        "owner" : false,
+        "manager" : false,
+        "admin" : false
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "와.."
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-14T14:41:24.627Z"
+    },
+    {
+      "id" : 3376,
+      "member" : {
+        "id" : 78,
+        "nickname" : "사나이클럽운영자",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://hub.waiker.ai/profile/e1fbf666-670f-42d7-b6de-65a482d67547.jpg"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 78,
+        "id" : 226,
+        "createdDt" : "2022-11-03T23:13:51.555Z",
+        "owner" : false,
+        "manager" : false,
+        "admin" : false
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "자랑인가요"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-14T14:41:29.828Z"
+    },
+    {
+      "id" : 3377,
+      "member" : {
+        "id" : 774,
+        "nickname" : "Sam",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://hub.waiker.ai/profile/ee5583bf-7442-4ac3-b24e-891dcd5635b8.jpg"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 774,
+        "id" : 203,
+        "createdDt" : "2022-11-03T01:30:28.418Z",
+        "owner" : false,
+        "manager" : false,
+        "admin" : false
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "19달러는... 올 지 모르겠네요... 저는 오늑도 팔 예정입니다..."
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-14T14:41:46.228Z"
+    },
+    {
+      "id" : 3378,
+      "member" : {
+        "id" : 78,
+        "nickname" : "사나이클럽운영자",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://hub.waiker.ai/profile/e1fbf666-670f-42d7-b6de-65a482d67547.jpg"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 78,
+        "id" : 226,
+        "createdDt" : "2022-11-03T23:13:51.555Z",
+        "owner" : false,
+        "manager" : false,
+        "admin" : false
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "와.."
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-14T14:41:58.641Z"
+    },
+    {
+      "id" : 3379,
+      "member" : {
+        "id" : 774,
+        "nickname" : "Sam",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://hub.waiker.ai/profile/ee5583bf-7442-4ac3-b24e-891dcd5635b8.jpg"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : 3376,
+        "member" : {
+          "id" : 78,
+          "nickname" : "사나이클럽운영자",
+          "memberStatus" : "NORMAL",
+          "profileImage" : "https://hub.waiker.ai/profile/e1fbf666-670f-42d7-b6de-65a482d67547.jpg"
+        },
+        "channelId" : 144,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : "TEXT",
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : {
+          "contents" : "자랑인가요"
+        },
+        "deletedByAdmin" : false,
+        "sentDt" : "2022-11-14T14:41:29.828Z"
+      },
+      "spaceUser" : {
+        "memberId" : 774,
+        "id" : 203,
+        "createdDt" : "2022-11-03T01:30:28.418Z",
+        "owner" : false,
+        "manager" : false,
+        "admin" : false
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "자랑은 아니에요 ㅠ 그저 흑전돼서 쫄보라 팔 뿐..."
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-14T14:42:23.281Z"
+    },
+    {
+      "id" : 3380,
+      "member" : {
+        "id" : 78,
+        "nickname" : "사나이클럽운영자",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://hub.waiker.ai/profile/e1fbf666-670f-42d7-b6de-65a482d67547.jpg"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 78,
+        "id" : 226,
+        "createdDt" : "2022-11-03T23:13:51.555Z",
+        "owner" : false,
+        "manager" : false,
+        "admin" : false
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "와 흑전"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-14T14:42:51.843Z"
+    },
+    {
+      "id" : 3381,
+      "member" : {
+        "id" : 774,
+        "nickname" : "Sam",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://hub.waiker.ai/profile/ee5583bf-7442-4ac3-b24e-891dcd5635b8.jpg"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 774,
+        "id" : 203,
+        "createdDt" : "2022-11-03T01:30:28.418Z",
+        "owner" : false,
+        "manager" : false,
+        "admin" : false
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "흑전돼서 파는 쫄보읻니다...."
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-14T14:43:44.303Z"
+    },
+    {
+      "id" : 3382,
+      "member" : {
+        "id" : 18,
+        "nickname" : "테슬라",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://waiker-storage.s3.ap-northeast-2.amazonaws.com/profile/18e252aa-2c61-4c25-b805-ea604f9be1e6.png"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 18,
+        "id" : 159,
+        "createdDt" : "2022-11-02T01:39:12.735Z",
+        "owner" : true,
+        "manager" : false,
+        "admin" : true
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "ㅜㅜ"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-14T15:03:44.737Z"
+    },
+    {
+      "id" : 3383,
+      "member" : {
+        "id" : 18,
+        "nickname" : "테슬라",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://waiker-storage.s3.ap-northeast-2.amazonaws.com/profile/18e252aa-2c61-4c25-b805-ea604f9be1e6.png"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 18,
+        "id" : 159,
+        "createdDt" : "2022-11-02T01:39:12.735Z",
+        "owner" : true,
+        "manager" : false,
+        "admin" : true
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "와 샘님;"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-14T15:03:51.093Z"
+    },
+    {
+      "id" : 3384,
+      "member" : {
+        "id" : 18,
+        "nickname" : "테슬라",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://waiker-storage.s3.ap-northeast-2.amazonaws.com/profile/18e252aa-2c61-4c25-b805-ea604f9be1e6.png"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 18,
+        "id" : 159,
+        "createdDt" : "2022-11-02T01:39:12.735Z",
+        "owner" : true,
+        "manager" : false,
+        "admin" : true
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "시드가 커서"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-14T15:03:52.911Z"
+    },
+    {
+      "id" : 3385,
+      "member" : {
+        "id" : 18,
+        "nickname" : "테슬라",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://waiker-storage.s3.ap-northeast-2.amazonaws.com/profile/18e252aa-2c61-4c25-b805-ea604f9be1e6.png"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 18,
+        "id" : 159,
+        "createdDt" : "2022-11-02T01:39:12.735Z",
+        "owner" : true,
+        "manager" : false,
+        "admin" : true
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "좀만 이득보고 팔아도 큰이득;;"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-14T15:03:59.721Z"
+    },
+    {
+      "id" : 3388,
+      "member" : {
+        "id" : 18,
+        "nickname" : "테슬라",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://waiker-storage.s3.ap-northeast-2.amazonaws.com/profile/18e252aa-2c61-4c25-b805-ea604f9be1e6.png"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 18,
+        "id" : 159,
+        "createdDt" : "2022-11-02T01:39:12.735Z",
+        "owner" : true,
+        "manager" : false,
+        "admin" : true
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "와 속슬 오릅니다;;"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-14T15:18:11.582Z"
+    },
+    {
+      "id" : 3394,
+      "member" : {
+        "id" : 18,
+        "nickname" : "테슬라",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://waiker-storage.s3.ap-northeast-2.amazonaws.com/profile/18e252aa-2c61-4c25-b805-ea604f9be1e6.png"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 18,
+        "id" : 159,
+        "createdDt" : "2022-11-02T01:39:12.735Z",
+        "owner" : true,
+        "manager" : false,
+        "admin" : true
+      },
+      "messageType" : "LINK",
+      "linkMessage" : {
+        "ogImage" : "https://image.news1.kr/system/photos/2021/3/9/4657522/article.jpg",
+        "ogUrl" : "https://www.news1.kr/articles/?4864406",
+        "contents" : "[속보] 버핏 투자회사 버크셔 대만반도체TSMC 첫 매수\nhttps://www.news1.kr/articles/?4864406\r\n",
+        "ogTitle" : "[속보] 버핏 투자회사 버크셔 대만반도체TSMC 첫 매수",
+        "ogDesc" : "사실 앞에 겸손한 민영 종합 뉴스통신사 뉴스1"
+      },
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : null,
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-14T23:53:06.365Z"
+    },
+    {
+      "id" : 3399,
+      "member" : {
+        "id" : 78,
+        "nickname" : "사나이클럽운영자",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://hub.waiker.ai/profile/e1fbf666-670f-42d7-b6de-65a482d67547.jpg"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 78,
+        "id" : 226,
+        "createdDt" : "2022-11-03T23:13:51.555Z",
+        "owner" : false,
+        "manager" : false,
+        "admin" : false
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "감사합니다 버핏할아버지"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-15T05:48:08.614Z"
+    },
+    {
+      "id" : 3401,
+      "member" : {
+        "id" : 18,
+        "nickname" : "테슬라",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://waiker-storage.s3.ap-northeast-2.amazonaws.com/profile/18e252aa-2c61-4c25-b805-ea604f9be1e6.png"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 18,
+        "id" : 159,
+        "createdDt" : "2022-11-02T01:39:12.735Z",
+        "owner" : true,
+        "manager" : false,
+        "admin" : true
+      },
+      "messageType" : "LINK",
+      "linkMessage" : {
+        "ogImage" : "https://image.news1.kr/system/photos/2021/3/9/4657522/article.jpg",
+        "ogUrl" : "https://www.news1.kr/articles/4865177",
+        "contents" : "[속보] G20 공동성명 초안 \"통화긴축 속도 적절히 조정\"\n\nhttps://www.news1.kr/articles/4865177",
+        "ogTitle" : "[속보] G20 공동성명 초안 &quot;통화긴축 속도 적절히 조정&quot;",
+        "ogDesc" : "사실 앞에 겸손한 민영 종합 뉴스통신사 뉴스1"
+      },
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : null,
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-15T07:48:52.831Z"
+    },
+    {
+      "id" : 3403,
+      "member" : {
+        "id" : 774,
+        "nickname" : "Sam",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://hub.waiker.ai/profile/ee5583bf-7442-4ac3-b24e-891dcd5635b8.jpg"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 774,
+        "id" : 203,
+        "createdDt" : "2022-11-03T01:30:28.418Z",
+        "owner" : false,
+        "manager" : false,
+        "admin" : false
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "와.... TSMC를 버핏 할아버지가 살 줄이야...."
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-15T08:19:13.533Z"
+    },
+    {
+      "id" : 3404,
+      "member" : {
+        "id" : 28,
+        "nickname" : "koreant",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://hub.waiker.ai/profile/451e015f-4acf-41ad-a7cd-46fcc4c26a8a.jpeg"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 28,
+        "id" : 247,
+        "createdDt" : "2022-11-09T13:01:06.135Z",
+        "owner" : false,
+        "manager" : false,
+        "admin" : false
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "ㅋㅋ"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-15T08:27:19.911Z"
+    },
+    {
+      "id" : 3408,
+      "member" : {
+        "id" : 78,
+        "nickname" : "사나이클럽운영자",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://hub.waiker.ai/profile/e1fbf666-670f-42d7-b6de-65a482d67547.jpg"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 78,
+        "id" : 226,
+        "createdDt" : "2022-11-03T23:13:51.555Z",
+        "owner" : false,
+        "manager" : false,
+        "admin" : false
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "와 오늘 장전 tsmc 날아갑니다"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-15T09:00:29.251Z"
+    },
+    {
+      "id" : 3409,
+      "member" : {
+        "id" : 18,
+        "nickname" : "테슬라",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://waiker-storage.s3.ap-northeast-2.amazonaws.com/profile/18e252aa-2c61-4c25-b805-ea604f9be1e6.png"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 18,
+        "id" : 159,
+        "createdDt" : "2022-11-02T01:39:12.735Z",
+        "owner" : true,
+        "manager" : false,
+        "admin" : true
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "속슬도 같이 날아가네요"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-15T09:43:26.334Z"
+    },
+    {
+      "id" : 3410,
+      "member" : {
+        "id" : 18,
+        "nickname" : "테슬라",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://waiker-storage.s3.ap-northeast-2.amazonaws.com/profile/18e252aa-2c61-4c25-b805-ea604f9be1e6.png"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 18,
+        "id" : 159,
+        "createdDt" : "2022-11-02T01:39:12.735Z",
+        "owner" : true,
+        "manager" : false,
+        "admin" : true
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "+5.16% .... 가즈앗"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-15T09:43:36.926Z"
+    },
+    {
+      "id" : 3415,
+      "member" : {
+        "id" : 18,
+        "nickname" : "테슬라",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://waiker-storage.s3.ap-northeast-2.amazonaws.com/profile/18e252aa-2c61-4c25-b805-ea604f9be1e6.png"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 18,
+        "id" : 159,
+        "createdDt" : "2022-11-02T01:39:12.735Z",
+        "owner" : true,
+        "manager" : false,
+        "admin" : true
+      },
+      "messageType" : "IMAGE",
+      "linkMessage" : null,
+      "imageMessage" : {
+        "imgWidth" : 400,
+        "imgHeight" : 146,
+        "contents" : "https://hub.waiker.ai/chat-temporal/829d41e2-ad31-4793-9c73-f023b581d0b7.png"
+      },
+      "deletedByWriter" : false,
+      "textMessage" : null,
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-15T09:49:01.303Z"
+    },
+    {
+      "id" : 3423,
+      "member" : {
+        "id" : 3,
+        "nickname" : "뚜꾸리",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://hub.waiker.ai/profile/5b58b23c-aef0-4a65-ae82-08204c1eebcc.jpg"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 3,
+        "id" : 198,
+        "createdDt" : "2022-11-02T13:42:26.802Z",
+        "owner" : false,
+        "manager" : false,
+        "admin" : false
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "속슬 14달러 넘었네요"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-15T13:35:02.290Z"
+    },
+    {
+      "id" : 3425,
+      "member" : {
+        "id" : 774,
+        "nickname" : "Sam",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://hub.waiker.ai/profile/ee5583bf-7442-4ac3-b24e-891dcd5635b8.jpg"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 774,
+        "id" : 203,
+        "createdDt" : "2022-11-03T01:30:28.418Z",
+        "owner" : false,
+        "manager" : false,
+        "admin" : false
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "아까 좀 팔았는데 속쓰리네요..."
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-15T13:40:09.847Z"
+    },
+    {
+      "id" : 3426,
+      "member" : {
+        "id" : 3,
+        "nickname" : "뚜꾸리",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://hub.waiker.ai/profile/5b58b23c-aef0-4a65-ae82-08204c1eebcc.jpg"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 3,
+        "id" : 198,
+        "createdDt" : "2022-11-02T13:42:26.802Z",
+        "owner" : false,
+        "manager" : false,
+        "admin" : false
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "저는 지난주여;;"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-15T14:23:59.276Z"
+    },
+    {
+      "id" : 3427,
+      "member" : {
+        "id" : 3,
+        "nickname" : "뚜꾸리",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://hub.waiker.ai/profile/5b58b23c-aef0-4a65-ae82-08204c1eebcc.jpg"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 3,
+        "id" : 198,
+        "createdDt" : "2022-11-02T13:42:26.802Z",
+        "owner" : false,
+        "manager" : false,
+        "admin" : false
+      },
+      "messageType" : "LINK",
+      "linkMessage" : {
+        "ogImage" : "https://hub.waiker.ai/og/stock.png",
+        "ogUrl" : "https://s.waiker.ai/ko/se/SOXL.K",
+        "contents" : "https://s.waiker.ai/ko/se/SOXL.K",
+        "ogTitle" : "디렉시온 데일리 반도체 레버리지 3배 셰어즈",
+        "ogDesc" : "글로벌 AI 투자정보 플랫폼 - 실시간 글로벌 증시 데이터, 뉴스, AI 분석 솔루션"
+      },
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : null,
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-15T14:43:36.251Z"
+    },
+    {
+      "id" : 3428,
+      "member" : {
+        "id" : 3,
+        "nickname" : "뚜꾸리",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://hub.waiker.ai/profile/5b58b23c-aef0-4a65-ae82-08204c1eebcc.jpg"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 3,
+        "id" : 198,
+        "createdDt" : "2022-11-02T13:42:26.802Z",
+        "owner" : false,
+        "manager" : false,
+        "admin" : false
+      },
+      "messageType" : "IMAGE",
+      "linkMessage" : null,
+      "imageMessage" : {
+        "imgWidth" : 1170,
+        "imgHeight" : 1571,
+        "contents" : "https://hub.waiker.ai/chat-temporal/987789f9-10f3-4532-acfa-fdb9e5d8602f.jpeg"
+      },
+      "deletedByWriter" : false,
+      "textMessage" : null,
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-15T14:44:14.226Z"
+    },
+    {
+      "id" : 3429,
+      "member" : {
+        "id" : 3,
+        "nickname" : "뚜꾸리",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://hub.waiker.ai/profile/5b58b23c-aef0-4a65-ae82-08204c1eebcc.jpg"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 3,
+        "id" : 198,
+        "createdDt" : "2022-11-02T13:42:26.802Z",
+        "owner" : false,
+        "manager" : false,
+        "admin" : false
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "최근 1개월;;"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-15T14:44:20.702Z"
+    },
+    {
+      "id" : 3430,
+      "member" : {
+        "id" : 774,
+        "nickname" : "Sam",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://hub.waiker.ai/profile/ee5583bf-7442-4ac3-b24e-891dcd5635b8.jpg"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 774,
+        "id" : 203,
+        "createdDt" : "2022-11-03T01:30:28.418Z",
+        "owner" : false,
+        "manager" : false,
+        "admin" : false
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "정말 주식은 알다가도 모르겠네요"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-15T16:22:32.187Z"
+    },
+    {
+      "id" : 3443,
+      "member" : {
+        "id" : 28,
+        "nickname" : "koreant",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://hub.waiker.ai/profile/451e015f-4acf-41ad-a7cd-46fcc4c26a8a.jpeg"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : 3428,
+        "member" : {
+          "id" : 3,
+          "nickname" : "뚜꾸리",
+          "memberStatus" : "NORMAL",
+          "profileImage" : "https://hub.waiker.ai/profile/5b58b23c-aef0-4a65-ae82-08204c1eebcc.jpg"
+        },
+        "channelId" : 144,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : "IMAGE",
+        "linkMessage" : null,
+        "imageMessage" : {
+          "imgWidth" : 0,
+          "imgHeight" : 0,
+          "contents" : "https://hub.waiker.ai/chat-temporal/987789f9-10f3-4532-acfa-fdb9e5d8602f.jpeg"
+        },
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : "2022-11-15T14:44:14.226Z"
+      },
+      "spaceUser" : {
+        "memberId" : 28,
+        "id" : 247,
+        "createdDt" : "2022-11-09T13:01:06.135Z",
+        "owner" : false,
+        "manager" : false,
+        "admin" : false
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "또르님 수익률;"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-16T01:35:17.634Z"
+    },
+    {
+      "id" : 3474,
+      "member" : {
+        "id" : 4,
+        "nickname" : "또르",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://hub.waiker.ai/profile/db9626e4-f06b-4138-9ec2-5176dc53b10f.jpg"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 4,
+        "id" : 200,
+        "createdDt" : "2022-11-03T00:20:13.779Z",
+        "owner" : false,
+        "manager" : false,
+        "admin" : false
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "ㅠㅠ 다 팔아서"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-16T09:04:44.194Z"
+    },
+    {
+      "id" : 3475,
+      "member" : {
+        "id" : 18,
+        "nickname" : "테슬라",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://waiker-storage.s3.ap-northeast-2.amazonaws.com/profile/18e252aa-2c61-4c25-b805-ea604f9be1e6.png"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 18,
+        "id" : 159,
+        "createdDt" : "2022-11-02T01:39:12.735Z",
+        "owner" : true,
+        "manager" : false,
+        "admin" : true
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "ㅜㅜㅜ"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-16T12:08:05.340Z"
+    },
+    {
+      "id" : 3476,
+      "member" : {
+        "id" : 774,
+        "nickname" : "Sam",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://hub.waiker.ai/profile/ee5583bf-7442-4ac3-b24e-891dcd5635b8.jpg"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 774,
+        "id" : 203,
+        "createdDt" : "2022-11-03T01:30:28.418Z",
+        "owner" : false,
+        "manager" : false,
+        "admin" : false
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "오늘 갑자기 엄청 떨어지네요 ㄷㄷ"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-16T14:22:30.519Z"
+    },
+    {
+      "id" : 3480,
+      "member" : {
+        "id" : 3,
+        "nickname" : "뚜꾸리",
+        "memberStatus" : "NORMAL",
+        "profileImage" : "https://hub.waiker.ai/profile/5b58b23c-aef0-4a65-ae82-08204c1eebcc.jpg"
+      },
+      "channelId" : 144,
+      "parentMessage" : {
+        "id" : null,
+        "member" : {
+          "id" : null,
+          "nickname" : null,
+          "memberStatus" : null,
+          "profileImage" : null
+        },
+        "channelId" : null,
+        "parentMessage" : null,
+        "spaceUser" : null,
+        "messageType" : null,
+        "linkMessage" : null,
+        "imageMessage" : null,
+        "deletedByWriter" : false,
+        "textMessage" : null,
+        "deletedByAdmin" : false,
+        "sentDt" : null
+      },
+      "spaceUser" : {
+        "memberId" : 3,
+        "id" : 198,
+        "createdDt" : "2022-11-02T13:42:26.802Z",
+        "owner" : false,
+        "manager" : false,
+        "admin" : false
+      },
+      "messageType" : "TEXT",
+      "linkMessage" : null,
+      "imageMessage" : null,
+      "deletedByWriter" : false,
+      "textMessage" : {
+        "contents" : "마이크론이 급락 ㅠㅠ"
+      },
+      "deletedByAdmin" : false,
+      "sentDt" : "2022-11-16T14:25:34.608Z"
+    }
+  ]
+}

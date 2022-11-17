@@ -1,0 +1,32 @@
+PODS:
+  - ChatLayout (1.2.14):
+    - ChatLayout/Ultimate (= 1.2.14)
+  - ChatLayout/Core (1.2.14)
+  - ChatLayout/Extras (1.2.14):
+    - ChatLayout/Core
+  - ChatLayout/Ultimate (1.2.14):
+    - ChatLayout/Core
+    - ChatLayout/Extras
+  - DifferenceKit (1.3.0):
+    - DifferenceKit/Core (= 1.3.0)
+    - DifferenceKit/UIKitExtension (= 1.3.0)
+  - DifferenceKit/Core (1.3.0)
+  - DifferenceKit/UIKitExtension (1.3.0):
+    - DifferenceKit/Core
+
+DEPENDENCIES:
+  - ChatLayout
+  - DifferenceKit
+
+SPEC REPOS:
+  trunk:
+    - ChatLayout
+    - DifferenceKit
+
+SPEC CHECKSUMS:
+  ChatLayout: 0dabcfbceffa95f2a9a11c3bed1439457f89bc77
+  DifferenceKit: ab185c4d7f9cef8af3fcf593e5b387fb81e999ca
+
+PODFILE CHECKSUM: 36e5fb25b963860723244b6457f8aaf79a3c1998
+
+COCOAPODS: 1.11.3

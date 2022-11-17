@@ -1,0 +1,6 @@
+framework module Pods_ChatLayoutExam {
+  umbrella header "Pods-ChatLayoutExam-umbrella.h"
+
+  export *
+  module * { export * }
+}
