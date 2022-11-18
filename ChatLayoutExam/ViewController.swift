@@ -123,7 +123,7 @@ class ViewController: UIViewController {
             dataInput = changedData
         }
         
-        collectionView.scrollToLast(animated: false)
+//        collectionView.scrollToLast(animated: false)
     }
     
     func insertBeforeMessages(_ messageList: [RawMessage]) {
