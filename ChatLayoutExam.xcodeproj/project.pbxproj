@@ -18,10 +18,10 @@
 		83A3BDFC2925D3FD001AB6E2 /* OthersBubbleCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83A3BDFA2925D3FD001AB6E2 /* OthersBubbleCollectionViewCell.swift */; };
 		83A3BDFD2925D3FD001AB6E2 /* OthersBubbleCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 83A3BDFB2925D3FD001AB6E2 /* OthersBubbleCollectionViewCell.xib */; };
 		83E458D62925D796003D8668 /* first.json in Sources */ = {isa = PBXBuildFile; fileRef = 83E458D52925D796003D8668 /* first.json */; };
-		83E458D82925D7D7003D8668 /* ChattingMessageList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83E458D72925D7D7003D8668 /* ChattingMessageList.swift */; };
+		83E458D82925D7D7003D8668 /* RawMessage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83E458D72925D7D7003D8668 /* RawMessage.swift */; };
 		83E458DB2925D84D003D8668 /* MessageType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83E458DA2925D84D003D8668 /* MessageType.swift */; };
 		83E458DD2925D863003D8668 /* Member.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83E458DC2925D863003D8668 /* Member.swift */; };
-		83E458DF2925DE1D003D8668 /* ChattingDateSection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83E458DE2925DE1D003D8668 /* ChattingDateSection.swift */; };
+		83E458DF2925DE1D003D8668 /* Section.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83E458DE2925DE1D003D8668 /* Section.swift */; };
 		83E458E22925DE91003D8668 /* ChattingDateSectionHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83E458E02925DE91003D8668 /* ChattingDateSectionHeaderView.swift */; };
 		83E458E32925DE91003D8668 /* ChattingDateSectionHeaderView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 83E458E12925DE91003D8668 /* ChattingDateSectionHeaderView.xib */; };
 		83E458E62925DFAA003D8668 /* UICollectionView+.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83E458E52925DFAA003D8668 /* UICollectionView+.swift */; };
@@ -49,10 +49,10 @@
 		83A3BDFA2925D3FD001AB6E2 /* OthersBubbleCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OthersBubbleCollectionViewCell.swift; sourceTree = "<group>"; };
 		83A3BDFB2925D3FD001AB6E2 /* OthersBubbleCollectionViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = OthersBubbleCollectionViewCell.xib; sourceTree = "<group>"; };
 		83E458D52925D796003D8668 /* first.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = first.json; sourceTree = "<group>"; };
-		83E458D72925D7D7003D8668 /* ChattingMessageList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChattingMessageList.swift; sourceTree = "<group>"; };
+		83E458D72925D7D7003D8668 /* RawMessage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RawMessage.swift; sourceTree = "<group>"; };
 		83E458DA2925D84D003D8668 /* MessageType.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MessageType.swift; sourceTree = "<group>"; };
 		83E458DC2925D863003D8668 /* Member.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Member.swift; sourceTree = "<group>"; };
-		83E458DE2925DE1D003D8668 /* ChattingDateSection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChattingDateSection.swift; sourceTree = "<group>"; };
+		83E458DE2925DE1D003D8668 /* Section.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Section.swift; sourceTree = "<group>"; };
 		83E458E02925DE91003D8668 /* ChattingDateSectionHeaderView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChattingDateSectionHeaderView.swift; sourceTree = "<group>"; };
 		83E458E12925DE91003D8668 /* ChattingDateSectionHeaderView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ChattingDateSectionHeaderView.xib; sourceTree = "<group>"; };
 		83E458E52925DFAA003D8668 /* UICollectionView+.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UICollectionView+.swift"; sourceTree = "<group>"; };
@@ -150,8 +150,8 @@
 			children = (
 				83E458DC2925D863003D8668 /* Member.swift */,
 				83E458DA2925D84D003D8668 /* MessageType.swift */,
-				83E458D72925D7D7003D8668 /* ChattingMessageList.swift */,
-				83E458DE2925DE1D003D8668 /* ChattingDateSection.swift */,
+				83E458D72925D7D7003D8668 /* RawMessage.swift */,
+				83E458DE2925DE1D003D8668 /* Section.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -297,7 +297,7 @@
 				83A3BDFC2925D3FD001AB6E2 /* OthersBubbleCollectionViewCell.swift in Sources */,
 				83E458E22925DE91003D8668 /* ChattingDateSectionHeaderView.swift in Sources */,
 				83E458E62925DFAA003D8668 /* UICollectionView+.swift in Sources */,
-				83E458DF2925DE1D003D8668 /* ChattingDateSection.swift in Sources */,
+				83E458DF2925DE1D003D8668 /* Section.swift in Sources */,
 				83E458D62925D796003D8668 /* first.json in Sources */,
 				83A3BDF82925D3F1001AB6E2 /* MyBubbleCollectionViewCell.swift in Sources */,
 				83E458DB2925D84D003D8668 /* MessageType.swift in Sources */,
@@ -306,7 +306,7 @@
 				83E458E82925F637003D8668 /* FileManager.swift in Sources */,
 				83E458F129260DDF003D8668 /* before.json in Sources */,
 				83A3BDE52925D3A6001AB6E2 /* ViewController.swift in Sources */,
-				83E458D82925D7D7003D8668 /* ChattingMessageList.swift in Sources */,
+				83E458D82925D7D7003D8668 /* RawMessage.swift in Sources */,
 				83A3BDE12925D3A6001AB6E2 /* AppDelegate.swift in Sources */,
 				83A3BDE32925D3A6001AB6E2 /* SceneDelegate.swift in Sources */,
 			);

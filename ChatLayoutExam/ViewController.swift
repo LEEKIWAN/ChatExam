@@ -15,43 +15,19 @@ class ViewController: UIViewController {
     static let sectionDateFormat = "yyyy MMM dd, EEEE"
     let dateFormatter = DateFormatter()
     
-    let flowLayout = CollectionViewChatLayout()
-        
-    typealias Section = ArraySection<ChattingDateSection, RawMessage>
+    let chatLayout = CollectionViewChatLayout()
 
-    var data: [Section] = []
-
-    var dataInput: [Section] {
-        get { return data }
-        set {
-            let changeSet = StagedChangeset(source: data, target: newValue).flattenIfPossible()
-            
-            collectionView.reload(using: changeSet,
-                                  interrupt: { changeSet in
-                                      guard changeSet.sectionInserted.isEmpty else {
-                                          return true
-                                      }
-                                      return false
-                                  },
-//                                  onInterruptedReload: { [weak self] in
-//                                      let positionSnapshot = ChatLayoutPositionSnapshot(indexPath: IndexPath(item: 3, section: 0), kind: .footer, edge: .bottom)
-//                                      self?.collectionView.reloadData()
-//
-//                                      self?.flowLayout.restoreContentOffset(with: positionSnapshot)
-//                                  },
-                                  completion: { _ in
-                                      DispatchQueue.main.async {
-//                                          self.collectionView.scrollToItem(at: IndexPath(row: 6, section: 1), at: .centeredVertically, animated: true)
-                                      }
-                                  },
-                                  setData: { [weak self] data in
-                                      self?.data = data
-                                  })
+    
+    private var oldSections: [Section] = []
+    
+    var sections: [Section] = [] {
+        didSet {
+            oldSections = oldValue
         }
     }
     
-    
     @IBOutlet weak var collectionView: UICollectionView!
+
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -70,10 +46,10 @@ class ViewController: UIViewController {
         collectionView.automaticallyAdjustsScrollIndicatorInsets = true
         collectionView.translatesAutoresizingMaskIntoConstraints = false
 
-        flowLayout.keepContentOffsetAtBottomOnBatchUpdates = true
-        flowLayout.delegate = self
+        chatLayout.keepContentOffsetAtBottomOnBatchUpdates = true
+        chatLayout.delegate = self
 
-        collectionView.collectionViewLayout = flowLayout
+        collectionView.collectionViewLayout = chatLayout
         
         collectionView.register(UINib(nibName: "MyBubbleCollectionViewCell", bundle: .main), forCellWithReuseIdentifier: "MyBubbleCollectionViewCell")
         collectionView.register(UINib(nibName: "OthersBubbleCollectionViewCell", bundle: .main), forCellWithReuseIdentifier: "OthersBubbleCollectionViewCell")
@@ -102,57 +78,92 @@ class ViewController: UIViewController {
     }
     
     func loadInitialMessages(_ messageList: [RawMessage]) {
-        var changedData = dataInput
+        var changedData = sections
                 
         for message in messageList {
             let dateText = message.sentDt?.utcToDeviceLocal(format: ViewController.sectionDateFormat) ?? ""
             let date = dateFormatter.date(from: dateText) ?? Date()
-            
-            
-            if let t = changedData.firstIndex(where: { $0.model.dateText == dateText }) {
-                changedData[t].elements.append(message)
-            } else {
-                let sectionModel = ChattingDateSection(dateText: dateText, date: date)
-                let section = Section(model: sectionModel, elements: [message])
 
+            if let t = changedData.firstIndex(where: { $0.dateText == dateText }) {
+                changedData[t].cells.append(message)
+            } else {
+                let section = Section(dateText: dateText, date: date, cells: [message])
                 changedData.append(section)
             }
         }
         
-        UIView.performWithoutAnimation {
-            dataInput = changedData
+        processUpdates(with: changedData, animated: false) {
+//            self.collectionView.scrollToLast(animated: false)
         }
-        
-//        collectionView.scrollToLast(animated: false)
     }
     
     func insertBeforeMessages(_ messageList: [RawMessage]) {
-        var changedData = dataInput
+        var changedData = sections
         
         let sortedMessageList = messageList.sorted {
             ($0.sentDt ?? Date()) > ($1.sentDt ?? Date())
         }
-        
+
         for message in sortedMessageList {
             let dateText = message.sentDt?.utcToDeviceLocal(format: ViewController.sectionDateFormat) ?? ""
             let date = dateFormatter.date(from: dateText) ?? Date()
-            
-            
-            if let t = changedData.firstIndex(where: { $0.model.dateText == dateText }) {
-                changedData[t].elements.insert(message, at: 0)
-            } else {
-                let sectionModel = ChattingDateSection(dateText: dateText, date: date)
-                let section = Section(model: sectionModel, elements: [message])
 
+
+            if let t = changedData.firstIndex(where: { $0.dateText == dateText }) {
+                changedData[t].cells.insert(message, at: 0)
+            } else {
+                let section = Section(dateText: dateText, date: date, cells: [message])
                 changedData.insert(section, at: 0)
             }
         }
         
-        UIView.performWithoutAnimation {
-            dataInput = changedData
-        }
+        processUpdates(with: changedData)
     }
     
+    
+    
+    private func processUpdates(with sections: [Section], animated: Bool = true, completion: (() -> Void)? = nil) {
+        guard isViewLoaded else {
+            self.sections = sections
+            return
+        }
+
+                
+        func process() {
+            let changeSet = StagedChangeset(source: self.sections, target: sections).flattenIfPossible()
+            
+            collectionView.reload(using: changeSet,
+                                  interrupt: { changeSet in
+                                      guard changeSet.sectionInserted.isEmpty else {
+                                          return true
+                                      }
+                                      return false
+                                  },
+                                  onInterruptedReload: {
+                                      let positionSnapshot = ChatLayoutPositionSnapshot(indexPath: IndexPath(item: 0, section: sections.count - 1), kind: .footer, edge: .bottom)
+                                      self.collectionView.reloadData()
+                                      
+                                      self.chatLayout.restoreContentOffset(with: positionSnapshot)
+                                  },
+                                  completion: { _ in
+                                      DispatchQueue.main.async {
+                                          completion?()
+                                      }
+                                  },
+                                  setData: { data in
+                                      print("df")
+                                      self.sections = data
+                                  })
+        }
+
+        if animated {
+            process()
+        } else {
+            UIView.performWithoutAnimation {
+                process()
+            }
+        }
+    }
     
 }
 
@@ -160,16 +171,16 @@ class ViewController: UIViewController {
 extension ViewController: UICollectionViewDelegate, UICollectionViewDataSource, UICollectionViewDelegateFlowLayout {
     
     func numberOfSections(in collectionView: UICollectionView) -> Int {
-        return data.count
+        return sections.count
     }
     
     func collectionView(_ collectionView: UICollectionView, numberOfItemsInSection section: Int) -> Int {
-        return data[section].elements.count
+        return sections[section].cells.count
     }
     
     
     func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -> UICollectionViewCell {
-        let message = data[indexPath.section].elements[indexPath.row]
+        let message = sections[indexPath.section].cells[indexPath.item]
         
         if indexPath.row % 2 == 0 {
             guard let cell = collectionView.dequeueReusableCell(withReuseIdentifier: "MyBubbleCollectionViewCell", for: indexPath) as? MyBubbleCollectionViewCell else { return UICollectionViewCell() }
@@ -177,20 +188,13 @@ extension ViewController: UICollectionViewDelegate, UICollectionViewDataSource, 
             cell.dateLabel.text = message.sentDt?.utcToDeviceLocal(format: "hh:mm")
             cell.textView.text = message.textMessage?.contents ?? message.linkMessage?.contents ?? "it's not Message\n\n\n\n\\nn\nn\n\n\n\nit's Image"
             
-            cell.textView.sizeToFit()
-            cell.setNeedsLayout()
-            cell.layoutIfNeeded()
+            
             return cell
         } else {
             guard let cell = collectionView.dequeueReusableCell(withReuseIdentifier: "OthersBubbleCollectionViewCell", for: indexPath) as? OthersBubbleCollectionViewCell else { return UICollectionViewCell() }
 
             cell.dateLabel.text = message.sentDt?.utcToDeviceLocal(format: "hh:mm")
             cell.textView.text = message.textMessage?.contents ?? message.linkMessage?.contents ?? "it's not Message \n\n\n\n\n\n\n\n\n\n\n\n\n\n\nnnit's Image"
-            
-            cell.textView.sizeToFit()
-            cell.setNeedsLayout()
-            cell.layoutIfNeeded()
-            
             
             
             return cell
@@ -203,7 +207,7 @@ extension ViewController: UICollectionViewDelegate, UICollectionViewDataSource, 
         switch kind {
         case UICollectionView.elementKindSectionHeader:
             guard let headerView = collectionView.dequeueReusableSupplementaryView(ofKind: kind, withReuseIdentifier: "ChattingDateSectionHeaderView", for: indexPath) as? ChattingDateSectionHeaderView else { return UICollectionReusableView() }
-            headerView.date = data[indexPath.section].model.date
+            headerView.date = sections[indexPath.section].date
             return headerView
         default:
             assert(false, "아이냐")

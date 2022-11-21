@@ -69,8 +69,20 @@ extension RawMessage: Differentiable {
     func isContentEqual(to source: RawMessage) -> Bool {
         return id == source.id
     }
-    
 }
+
+extension RawMessage: Hashable {
+    static func == (lhs: RawMessage, rhs: RawMessage) -> Bool {
+        return lhs.id == rhs.id
+    }
+        
+    func hash(into hasher: inout Hasher) {
+        hasher.combine(id)
+    }
+}
+
+
+
 
 
 // MARK: - TextMessage

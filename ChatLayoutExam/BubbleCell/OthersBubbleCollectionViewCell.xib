@@ -50,7 +50,7 @@
                 <constraint firstItem="j47-y8-9ym" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" constant="10" id="XvN-rh-fEM"/>
                 <constraint firstItem="GCO-5N-V7G" firstAttribute="leading" secondItem="j47-y8-9ym" secondAttribute="trailing" constant="10" id="dPi-nu-avG"/>
                 <constraint firstAttribute="trailing" relation="greaterThanOrEqual" secondItem="GCO-5N-V7G" secondAttribute="trailing" constant="10" id="iEu-Lh-7Xp"/>
-                <constraint firstAttribute="bottom" secondItem="j47-y8-9ym" secondAttribute="bottom" constant="10" id="q0j-MH-WpP"/>
+                <constraint firstAttribute="bottom" secondItem="j47-y8-9ym" secondAttribute="bottom" priority="999" constant="10" id="q0j-MH-WpP"/>
             </constraints>
             <size key="customSize" width="458" height="448"/>
             <connections>
